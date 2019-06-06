@@ -1,7 +1,7 @@
 Speech Processing (SP)
 ====
 
-Repository for Speach Processing course.
+Repository for Speech Processing course.
 
 Laboratory Classes
 --------
