@@ -1,4 +1,4 @@
-Speach Processing (SP)
+Speech Processing (SP)
 ====
 
 Repository for Speach Processing course Laboratories.
