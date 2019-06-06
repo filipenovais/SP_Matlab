@@ -1,0 +1,1 @@
+Com o método da covariância percebe-se melhor a data de aniversário no som residual.
